@@ -79,17 +79,60 @@
 						<div class="col-md-12">
 							<div class="blog-item bi-feature">
 								<figure class="blog-thumb">
-									<img src="img/blog/enj.jpeg" alt="" style="margin-left: 100px;">
+									<img src="img/blog/enj.jpeg" alt="" style="margin-left: 100px; ">
 								</figure>
-								<div class="blog-text mt-4">
+								<div class="blog-text mt-4" style="background-color: #white;">
 									<div class="post-date">21 nov 2023</div>
-									<h4 class="blog-title"><a href="single-blog.html">ADIYON GROUP ENGENEERING SOLUTION(AGES)</a></h4>
+									<h4 class="blog-title"><a>ADIYON GROUP ENGENEERING SOLUTION (AGES)</a></h4>
 									
-									<p>A company was formed in the Republic of Benin called ADIYON GROUP ENGENEERING SOLUTION (AGES)...</p>
+									<p>ADIYON GROUP ENGINEERING SOLUTION (AGES) is a specialized Design Office in Business Assistance, Training and Business Facilitation.</p>
 									
-										<p id="checkout" style="display: none;"> it's limited liability company with a duration of 99 years from its registration with the RCCM and for the purpose of: design office, business assistance, human resources management , maintenance and recruitment, personal training, facilitation, technical assistance and partnership, construction, public works and infrastructure (roads, energy, water, soil studies) processing and marketing of agricultural products, 
-										real estate assembly (hotel and guest house) commerce and representation.</p>
-									
+									<div id="checkout" style="display: none;">
+										<p> AGES assistance increases revenues, income and jobs by promoting
+autonomy and market solutions to poverty reduction
+In the next five years AGES will become one of the best technical partners of
+African governments, their financial partners, and the private sector in research and
+the application of innovative solutions to boost economic development
+<br><br>
+The main concern of ADIYON GROUP ENGINEERING SOLUTION (AGES) is
+to support the efforts of private entrepreneurs to meet the needs of the Beninese populations
+in particular and African ones in general and to provide useful services in the resolution
+problems they face. Many African companies are launching
+in the production and processing of agricultural products as well as the realization of
+industrial products with the aim of limiting imports. Indeed, the demand for currencies
+to compensate for imported products is enormous; this is why the Beninese State has implemented
+places the policy of promoting small and medium-sized businesses in order to supplement the strong
+import rate of essential products. This situation has led to a creative boom
+of companies without prior preparation. The conclusion is the high mortality rate
+emerging businesses.
+To remedy this catastrophic situation, the AGES Company was created, on the one hand, to
+provide substantial support to business leaders in order to support them within the framework of the
+sustainability of young companies whose contribution to GDP is a factor to be taken into account
+important in the development of the country. On the other hand, to contribute to offering
+opportunities for rural African populations to participate in development
+socio-economic and environmental of their country.
+The strengths of AGES in solving business problems are:<br>
+ <h5>Ability to provide young businesses with tools such as: a plan
+strategic plan, a business plan, a marketing plan, a monitoring-evaluation mechanism
+activities and training;</h5><br>
+
+<h5>  Ability to mobilize donors for the financing of high-risk projects
+added value;</h5><br>
+
+<h5>  Availability of a network on the international market in general and the American market in
+particularly to support the growth of Beninese trade.
+The weaknesses that could be observed relate to the lack of culture in the African context.
+the call to consulting firms to monitor company activities.
+However, there are possibilities to support businesses to the extent that
+individual skills exist but are not structured and do not have the tools
+efficient.The threats are:</h5>
+<br>
+<h5>The eventual proliferation of non-competent organizations whose objective will be to
+claim to support existing or emerging businesses.</h5>  <br>
+<h5>Political instability which could limit access to state tenders.</h5> 
+
+</p>
+</div>							
 									<button type="button" onclick="setCheckout('checkout')" class="readmore">Readmore <i class="fa fa-angle-double-right"></i></button>
 								</div>
 							</div>
@@ -113,6 +156,77 @@
 	</section>
 	<!-- Fact section end -->
 
+	<!-- Team section -->
+	<section class="team-section spad" id="section3">
+		<div class="container">
+			<div class="section-title text-center">
+				<h2>Meet our experts</h2>
+				<p>Explore rewarding opportunities by meeting our qualified experts. Benefit from specialized advice and in-depth expertise in various fields to meet your specific needs. Our experts are ready to guide you, share their knowledge and collaborate with you to achieve your goals .</p>
+			</div>
+		</div>
+		<div class="team-members clearfix" style="text-align: center; justify-content: center; align-items: center;">
+			<!-- Team member -->
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/seth1.jpeg"></div>
+					<h2>Seth BAI</h2>
+					<span>Specialist in information technology</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/seth1.jpeg"></div>
+					<div class="member-meta">
+						<h2>Seth BAI</h2>
+						<span>Specialist in information technology (IT)</span>
+					</div>
+					<p>Seth BAI, A passionate information technology specialist, I have in-depth expertise in web development, network management and technical problem solving. My versatility, my passion for operational efficiency and my constant search for industry best practices make me an IT professional determined to provide innovative solutions. With a strong work ethic, I strive to ensure the security and performance of IT systems, while being a communicative and adaptable collaborator, ready to contribute to the success of any IT project.</p>
+				</div>
+				
+			</div>
+			<!-- Team member -->
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool1.jpeg"></div>
+					<h2>Anselme AINANDOU</h2>
+					<span>Co-manager of the company</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool1.jpeg"></div>
+					<div class="member-meta">
+						<h2>Anselme AINANDOU</h2>
+						<span>Co-manager of the company</span>
+					</div>
+					<p>Anselme AINANDOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
+				</div>
+				
+			</div>
+
+
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool2.jpeg"></div>
+					<h2>Mathieu HOUEDJESSI</h2>
+					<span>The company's third manager</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool2.jpeg"></div>
+					<div class="member-meta">
+						<h2>Mathieu HOUEDJESSI</h2>
+						<span>The company's third manager</span>
+					</div>
+					<p>Mathieu HOUEDJESSI, the company's third manager, plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
+				</div>
+				
+			</div>
+			
+			
+		</div>
+	</section>
+	<!-- Team section -->
+
+
 
 	<!-- Team section -->
 	<section class="team-section spad" id="section3">
@@ -122,7 +236,7 @@
 				<p>Our experts in the field of group engineering solution can always help you with all your questions!</p>
 			</div>
 		</div>
-		<div class="team-members clearfix container" style="text-align: center; justify-content: center; align-items: center;">
+		<div class="team-members clearfix" style="text-align: center; justify-content: center; align-items: center;">
 			<!-- Team member -->
 			<div class="member">
 				<div class="member-text">
@@ -264,9 +378,7 @@
 			<div class="row spad">
 				<div class="col-md-6 col-lg-3 footer-widget">
 					<img src="img/logo.png" class="mb-4" alt="">
-					<p>Limited liability company with capital of 1000000 fcfa bot:4235
-Midombo district plot D. Maison Senabou
-ADEBISSI.</p>
+					<p>Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
@@ -292,9 +404,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
 					<h5 class="widget-title">Follow Us</h5>
 					<div class="social">
-						<a href="" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="https://wa.me/22966961414">
-						<img src="img/process-icons/icone.png" alt="WhatsApp" style="margin-bottom: 5px;">
+						
+						<a href="https://wa.me/22966871414">
+						<img src="img/process-icons/icone.png" alt="WhatsApp"  style="margin-left: 25px;margin-bottom:15px">
 
                         </a>
 					</div>
@@ -305,8 +417,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 				<div class="row ">
 					<div class="text-center" style="margin-left: 25%;">
 				          <span class="col-6">© 2023 Group Engineering Solution</span>
-			              <span class="col-3">(229) 66961414</span>
-				         <span class="col">adivongroup@gmail.com</span>
+			              <span class="col-3">(229) 66871414</span>
+				         <span class="col">adiyongroup@gmail.com</span>
 				</div>
 				</div>
 			</div>

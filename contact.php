@@ -144,9 +144,7 @@ session_start();
 			<div class="row spad">
 				<div class="col-md-6 col-lg-3 footer-widget">
 					<img src="img/logo.png" class="mb-4" alt="">
-					<p>Limited liability company with capital of 1000000 fcfa bot:4235
-Midombo district plot D. Maison Senabou
-ADEBISSI.</p>
+					<p>Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
@@ -154,7 +152,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
 					<h5 class="widget-title">Aides</h5>
 					<ul>
-					  <a href="#section2">Envoyez-nous un message</a>
+					  <a href="#section2">send us your message</a>
 						<a href="blog.php#section1">Our services</a>
 						<a href="index.php#section0">Our Features</a>
 						<li><a href="about.php#section3">The teams' opinions</a></li>
@@ -172,9 +170,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
 					<h5 class="widget-title">Follow Us</h5>
 					<div class="social">
-						<a href="" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="https://wa.me/22966961414">
-						<img src="img/process-icons/icone.png" alt="WhatsApp" style="margin-bottom: 5px;">
+						
+						<a href="https://wa.me/22966871414">
+						<img src="img/process-icons/icone.png" alt="WhatsApp"  style="margin-left: 25px;margin-bottom:15px">
 
                         </a>
 					</div>
@@ -185,8 +183,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 				<div class="row ">
 					<div class="text-center" style="margin-left: 25%;">
 				          <span class="col-6">© 2023 Group Engineering Solution</span>
-			              <span class="col-3">(229) 66961414</span>
-				         <span class="col">adivongroup@gmail.com</span>
+			              <span class="col-3">(229) 66871414</span>
+				         <span class="col">adiyongroup@gmail.com</span>
 				</div>
 				</div>
 			</div>

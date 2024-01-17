@@ -63,11 +63,18 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 hero-text">
-					<h2><span>ADIYON</span> <br>Group Engineering Solution</h2>
-					<h4>Group Engineering Solution joue un rôle central dans la fourniture de solutions d’ingénierie complètes, offrant une expertise dans diverses disciplines pour répondre à divers besoins et défis industriels.</h4>	
+					<h2><span style="color:blue">ADIYON</span> <br>Group Engineering Solution</h2>
+					<h4>is a consulting firm specializing
+in business assistance, training and facilitation.
+AGES assistance increases revenues, incomes and employment by promoting
+market solutions to poverty reduction
+Over the next five years, AGES will become a leading technical partner to African
+African governments, their financial partners, and the private sector in the research and
+innovative solutions to boost community economic development.
+development.</h4>	
 				</div>
 				<div class="col-md-6 im1">
-				<img src="img/engering.jpg" class="laptop-image" alt="" style="height: 500px; margin-bottom: 250px">
+				<img src="img/engering.jpeg" class="laptop-image" alt="" >
 				</div>
 			</div>
 		</div>
@@ -83,8 +90,11 @@
 			</div>
 			<div class="col-6 offset-lg-5 about-text">
 					<h2>Mission</h2>
-					<h5>Adiyon Group Engineering Solution.</h5>
-					<p>Contribute to providing opportunities for rural African populations to participate to inthe socio-economic developmentand environmental protection of their country.
+					
+					<p> company’s services are
+built to Contribute to providing opportunities for rural African populations to
+participate to in the socio-economic development and environmental protection of their
+country.
 </p>
 				</div>
 			</div>
@@ -99,8 +109,8 @@
 	<section class="features-section spad gradient-bg " id="section0">
 		<div class="container text-white">
 			<div class="section-title text-center">
-				<h2>Our Features</h2>
-				<p>It aims to simplify group engineering processes, improve collaboration between team members, and accelerate the development of complex projects by providing a robust and integrated platform..</p>
+				<h2>Mission, vision and values statements</h2>
+				
 			</div>
 			<div class="row">
 				<!-- feature -->
@@ -149,78 +159,32 @@
 	<!-- Features section end -->
 
 
-	<!-- Process section -->
-	<section class="process-section spad">
-		<div class="container">
-			<div class="section-title text-center">
-				<h2>The AGES development process</h2>
-				<p>Start learning about Bitcoin with interactive tutorials. It’s fun, easy, and takes only a few minutes! </p>
-			</div>
-			<div class="row">
-				<div class="col-md-4 process">
-					<div class="process-step">
-						<figure class="process-icon">
-						<img src="img/process-icons/soluu2.jpg" alt="#">
-						</figure>
-						<h4>Needs Analysis and Solutions</h4>
-						<p>Identify and understand customer or market needs.
-Develop engineering solutions adapted to meet these needs.
-Apply analysis methodologies to ensure the relevance and viability of solutions.</p>
-					</div>
-				</div>
-				<div class="col-md-4 process">
-					<div class="process-step">
-						<figure class="process-icon">
-							<img src="img/process-icons/icone1.png" alt="#">
-						</figure>
-						<h4>Innovation and Technological Development</h4>
-						<p>Investment in research and development, integration of innovative approaches, adaptation to technological developments. </br><br> </p>
-					</div>
-				</div>
-				<div class="col-md-4 process">
-					<div class="process-step">
-						<figure class="process-icon">
-							<img src="img/process-icons/ino.png" alt="#">
-						</figure>
-						<h4>Project Management and Execution</h4>
-					<p>Implementation of project management practices, team coordination, compliance with deadlines, budgets and quality standards.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Process section end -->
-
-
-	<!-- Fact section -->
-	
-	<!-- Fact section end -->
-
 	<!-- Team section -->
 	<section class="team-section spad" id="section3">
 		<div class="container">
 			<div class="section-title text-center">
-				<h2>Meet Our Team</h2>
-				<p>Our experts in the field of group engineering solution can always help you with all your questions!</p>
+				<h2>Meet our experts</h2>
+				<p>Explore rewarding opportunities by meeting our qualified experts. Benefit from specialized advice and in-depth expertise in various fields to meet your specific needs. Our experts are ready to guide you, share their knowledge and collaborate with you to achieve your goals .</p>
 			</div>
 		</div>
-		<div class="team-members clearfix container" style="text-align: center; justify-content: center; align-items: center;">
+		<div class="team-members clearfix" style="text-align: center; justify-content: center; align-items: center;">
 			<!-- Team member -->
 			<div class="member">
 				<div class="member-text">
-					<div class="member-img set-bg" data-setbg="img/member/cool.jpeg"></div>
-					<h2>Yolande VODOUNOU</h2>
-					<span>Company manager</span>
+					<div class="member-img set-bg" data-setbg="img/member/seth1.jpeg"></div>
+					<h2>Seth BAI</h2>
+					<span>Specialist in information technology</span>
 				</div>
 				
 				<div class="member-info">
-					<div class="member-img mf set-bg" data-setbg="img/member/cool.jpeg"></div>
+					<div class="member-img mf set-bg" data-setbg="img/member/seth1.jpeg"></div>
 					<div class="member-meta">
-						<h2>Yolande VODOUNOU</h2>
-						<span>Company manager</span>
+						<h2>Seth BAI</h2>
+						<span>Specialist in information technology (IT)</span>
 					</div>
-					<p>Yolande VODOUNOU, the manager of the company, is a professional responsible for the management and daily supervision of the company's operations. She makes strategic decisions, develops business plans and coordinates the various activities. His expertise contributes to the operational efficiency and overall success of the organization.</p>
+					<p>Seth BAI, A passionate information technology specialist, I have in-depth expertise in web development, network management and technical problem solving. My versatility, my passion for operational efficiency and my constant search for industry best practices make me an IT professional determined to provide innovative solutions. With a strong work ethic, I strive to ensure the security and performance of IT systems, while being a communicative and adaptable collaborator, ready to contribute to the success of any IT project.</p>
 				</div>
+				
 			</div>
 			<!-- Team member -->
 			<div class="member">
@@ -238,6 +202,7 @@ Apply analysis methodologies to ensure the relevance and viability of solutions.
 					</div>
 					<p>Anselme AINANDOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
 				</div>
+				
 			</div>
 
 
@@ -256,6 +221,82 @@ Apply analysis methodologies to ensure the relevance and viability of solutions.
 					</div>
 					<p>Mathieu HOUEDJESSI, the company's third manager, plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
 				</div>
+				
+			</div>
+			
+			
+		</div>
+	</section>
+	<!-- Team section -->
+
+
+	<!-- Fact section -->
+	
+	<!-- Fact section end -->
+
+	<!-- Team section -->
+	<section class="team-section spad" id="section3">
+		<div class="container">
+			<div class="section-title text-center">
+				<h2>Meet Our Team</h2>
+				<p>Meet the team that brings our vision to life! Our 'Meet Our Team' page is a window into the faces and skills that shape our collective dynamic. Immerse yourself in a world where creativity, dedication and diversity come together to bring exceptional projects to life. Meet unique minds, explore shared passions and feel the momentum that defines our group, contributing to a collaborative and innovative atmosphere. Through this experience, you will truly appreciate the people behind our successes and understand the energy that propels our shared success</p>
+			</div>
+		</div>
+		<div class="team-members clearfix" style="text-align: center; justify-content: center; align-items: center;">
+			<!-- Team member -->
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool.jpeg"></div>
+					<h2>Yolande VODOUNOU</h2>
+					<span>Company manager</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool.jpeg"></div>
+					<div class="member-meta">
+						<h2>Yolande VODOUNOU</h2>
+						<span>Company manager</span>
+					</div>
+					<p>Yolande VODOUNOU, the manager of the company, is a professional responsible for the management and daily supervision of the company's operations. She makes strategic decisions, develops business plans and coordinates the various activities. His expertise contributes to the operational efficiency and overall success of the organization.</p>
+				</div>
+				
+			</div>
+			<!-- Team member -->
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool1.jpeg"></div>
+					<h2>Anselme AINADOU</h2>
+					<span>Co-manager of the company</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool1.jpeg"></div>
+					<div class="member-meta">
+						<h2>Anselme AINADOU</h2>
+						<span>Co-manager of the company</span>
+					</div>
+					<p>Anselme AINADOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
+				</div>
+				
+			</div>
+
+
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool2.jpeg"></div>
+					<h2>Mathieu HOUEDJISSI</h2>
+					<span>The company's third manager</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool2.jpeg"></div>
+					<div class="member-meta">
+						<h2>Mathieu HOUEDJISSI</h2>
+						<span>The company's third manager</span>
+					</div>
+					<p>Mathieu HOUEDJISSI, the company's third manager, plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
+				</div>
+				
 			</div>
 			
 			
@@ -275,7 +316,7 @@ Apply analysis methodologies to ensure the relevance and viability of solutions.
 							<p>"AGES stands out for its innovative approach, providing cutting-edge engineering solutions thanks to a dynamic and visionary team. Their commitment to innovation positions the company as an undisputed leader in the market.”</p>
 						</div>
 						<div class="review-text">
-							<p>"The expertise of AGES shines through the intelligent integration of health and education in its projects, demonstrating a deep understanding of societal issues. This unique approach makes it a key player contributing positively to social progress.”</p>
+							<p>"AGES’ expertise shines through the intelligent integration of health, education and women’s leadership in its projects, demonstrating a deep understanding of societal issues. This unique approach, based on gender, makes it a key player contributing positively to social progress.”</p>
 						</div>
 						<div class="review-text">
 							<p>"The exceptional management of Group Engineering Solution, focused on technical excellence and customer satisfaction, reinforces its reputation as a leader. His continued commitment positions the company for a prosperous and sustainable future in group engineering.”</p>
@@ -365,7 +406,7 @@ Apply analysis methodologies to ensure the relevance and viability of solutions.
 									<img src="img/routier.jpeg" alt="">
 								</figure>
 								<div class="blog-text">
-									<div class="post-date"><h5 style="color: blue; font-weight:bold">2.	Off-gridrenewableenergy and road infrastructures</h5></div>
+									<div class="post-date"><h5 style="color: blue; font-weight:bold">2.	Off-grid renewable energy and road infrastructures</h5></div>
 									<p style="color: black;">Through our corporate partnerships, we invest in African change agents who focus on delivering electricity and energy solutions using renewable sources such as solar, wind, hydro, and biogas technologies.<br><br></p>
 								</div>
 							</div>
@@ -390,9 +431,7 @@ Apply analysis methodologies to ensure the relevance and viability of solutions.
 			<div class="row spad">
 				<div class="col-md-6 col-lg-3 footer-widget">
 					<img src="img/logo.png" class="mb-4" alt="">
-					<p>Limited liability company with capital of 1000000 fcfa bot:4235
-Midombo district plot D. Maison Senabou
-ADEBISSI.</p>
+					<p>Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
@@ -418,9 +457,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
 					<h5 class="widget-title">Follow Us</h5>
 					<div class="social">
-						<a href="" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="https://wa.me/22966961414">
-						<img src="img/process-icons/icone.png" alt="WhatsApp" style="margin-bottom: 5px;">
+						
+						<a href="https://wa.me/22966871414">
+						<img src="img/process-icons/icone.png" alt="WhatsApp" style="margin-left: 25px;margin-bottom:15px">
 
                         </a>
 					</div>
@@ -431,8 +470,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 				<div class="row ">
 					<div class="text-center" style="margin-left: 25%;">
 				          <span class="col-6">© 2023 Group Engineering Solution</span>
-			              <span class="col-3">(229) 66961414</span>
-				         <span class="col">adivongroup@gmail.com</span>
+			              <span class="col-3">(229) 66871414</span>
+				         <span class="col">adiyongroup@gmail.com</span>
 				</div>
 				</div>
 			</div>
