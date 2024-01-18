@@ -36,9 +36,7 @@
 	<!-- Header section -->
 	<header class="header-section clearfix">
 		<div class="container-fluid">
-			<a  class="site-logo">
-				<img src="img/logo.png" alt="">
-			</a>
+		
 			<div class="responsive-bar"><i class="fa fa-bars"></i></div>
 			<a href="contact.php" class="user"><i class="fa fa-user"></i></a>
 			<a href="contact.php" class="site-btn">Contact</a>
@@ -87,7 +85,7 @@
 									
 									<p>ADIYON GROUP ENGINEERING SOLUTION (AGES) is a specialized Design Office in Business Assistance, Training and Business Facilitation.</p>
 									
-									<div id="checkout" style="display: none;">
+									<div id="checkout">
 										<p> AGES assistance increases revenues, income and jobs by promoting
 autonomy and market solutions to poverty reduction
 In the next five years AGES will become one of the best technical partners of
@@ -133,7 +131,7 @@ claim to support existing or emerging businesses.</h5>  <br>
 
 </p>
 </div>							
-									<button type="button" onclick="setCheckout('checkout')" class="readmore">Readmore <i class="fa fa-angle-double-right"></i></button>
+									<!--<button type="button" onclick="setCheckout('checkout')" class="readmore">Readmore <i class="fa fa-angle-double-right"></i></button>-->
 								</div>
 							</div>
 						</div>
@@ -377,7 +375,7 @@ claim to support existing or emerging businesses.</h5>  <br>
 		<div class="container">
 			<div class="row spad">
 				<div class="col-md-6 col-lg-3 footer-widget">
-					<img src="img/logo.png" class="mb-4" alt="">
+				<img src="img/log.png" class="mb-4" alt="" height=60 width=150>
 					<p>Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 

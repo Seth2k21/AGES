@@ -47,9 +47,7 @@ session_start();
 	<!-- Header section -->
 	<header class="header-section clearfix">
 		<div class="container-fluid">
-			<a href="index.html" class="site-logo">
-				<img src="img/logo.png" alt="">
-			</a>
+			
 			<div class="responsive-bar"><i class="fa fa-bars"></i></div>
 			<a href="contact.php" class="user"><i class="fa fa-user"></i></a>
 			<a href="contact.php" class="site-btn">Contact</a>
@@ -143,7 +141,7 @@ session_start();
 		<div class="container">
 			<div class="row spad">
 				<div class="col-md-6 col-lg-3 footer-widget">
-					<img src="img/logo.png" class="mb-4" alt="">
+				<img src="img/log.png" class="mb-4" alt="" height=60 width=150>
 					<p>Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 

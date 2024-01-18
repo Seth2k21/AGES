@@ -35,9 +35,7 @@
 	<!-- Header section -->
 	<header class="header-section clearfix">
 		<div class="container-fluid">
-			<a class="site-logo">
-				<img src="img/logo.png" alt="">
-			</a>
+			
 			<div class="responsive-bar"><i class="fa fa-bars"></i></div>
 			<a href="contact.php" class="user"><i class="fa fa-user"></i></a>
 			<a href="contact.php" class="site-btn">Contact</a>
@@ -99,7 +97,7 @@ country.
 				<div class="col-md-6">
 							<div class="blog-item">
 								<figure class="blog-thumb">
-									<img src="img/agri.jpeg" alt="" height="370px">
+									<img src="img/agri.jpg" alt="" height="370px">
 								</figure>
 								<div class="blog-text">
 									<div class="post-date"><h5 style="color: blue; font-weight:bold">1. Agriculture, foodsecurity and regionaltrade</h5></div>
@@ -112,7 +110,7 @@ country.
 						<div class="col-md-6">
 							<div class="blog-item">
 								<figure class="blog-thumb">
-									<img src="img/routier.jpeg" alt="">
+									<img src="img/routier.jpg" alt="">
 								</figure>
 								<div class="blog-text">
 									<div class="post-date"><h5 style="color: blue; font-weight:bold">2.	Off-grid renewable energy and road infrastructures</h5></div>
@@ -127,7 +125,7 @@ country.
 						<div class="col-md-6">
 							<div class="blog-item">
 								<figure class="blog-thumb">
-									<img src="img/jeune.jpeg" alt="" height="370px">
+									<img src="img/jeunee.jpeg" alt="" height="370px">
 								</figure>
 								<div class="blog-text">
 									<div class="post-date"><h5 style="color: blue; font-weight:bold">3.	Youth and women enterpreneurship </h5></div>
@@ -185,7 +183,7 @@ country.
 		<div class="container">
 			<div class="row spad">
 				<div class="col-md-6 col-lg-3 footer-widget">
-					<img src="img/logo.png" class="mb-4" alt="">
+				<img src="img/log.png" class="mb-4" alt="" height=60 width=150>
 					<p> Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
