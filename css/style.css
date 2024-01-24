@@ -28,7 +28,9 @@ h6 {
 	margin: 0;
 	font-weight: 500;
 	font-family: "Futura", sans-serif;
+	
 }
+
 
 h1 {
 	font-size: 70px;
@@ -43,7 +45,7 @@ h3 {
 }
 
 h4 {
-	font-size: 24px;
+	font-size: 16px;
 }
 
 h5 {
@@ -55,13 +57,18 @@ h6 {
 }
 
 p {
-	font-size: 15.7px;
-	color: #75849a;
-	line-height: 1.6;
+	font-size: 19px;
+	font-weight: 500;
+	color: black;
+	margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+	
 }
+
 
 img {
 	max-width: 100%;
+	
 }
 
 
@@ -1457,6 +1464,7 @@ ol {
 @media (max-width: 1585px) {
 	.hero-section .laptop-image {
 		left: 0;
+	
 	}
 }
 
@@ -1470,8 +1478,8 @@ ol {
 	}
 	.hero-section .laptop-image {
 		width: auto;
-		max-width: 100%;
-		top: 70px;
+		max-width: 900px;
+		top: 50px;
 	}
 	.about-img {
 		left: -50px;
@@ -1833,3 +1841,27 @@ ol {
 
 
 
+
+
+
+
+        /* Conteneur de la phrase avec l'animation */
+        #phrase-container {
+            overflow: hidden;
+            white-space: nowrap;
+            color: aqua; /* Couleur du texte */
+            font-size: 24px; /* Taille de la police, ajustez selon vos besoins */
+            font-family: 'Arial', sans-serif; /* Police, ajustez selon vos besoins */
+            animation: typeWriter 3s steps(40, end);
+        }
+
+        /* Style spécifique au span dans la phrase */
+        #phrase-container span {
+            color: #20509e; /* Couleur du texte du span */
+        }
+
+        /* Animation d'écriture automatique */
+        @keyframes typeWriter {
+            from { width: 0; }
+            to { width: 100%; }
+        }

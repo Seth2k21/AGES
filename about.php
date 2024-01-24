@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Development-fundation</title>
+	<title>ADIYON Group Engineering Solution</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Cryptocurrency Landing Page Template">
 	<meta name="keywords" content="cryptocurrency, unica, creative, html">
@@ -83,10 +83,10 @@
 									<div class="post-date">21 nov 2023</div>
 									<h4 class="blog-title"><a>ADIYON GROUP ENGENEERING SOLUTION (AGES)</a></h4>
 									
-									<p>ADIYON GROUP ENGINEERING SOLUTION (AGES) is a specialized Design Office in Business Assistance, Training and Business Facilitation.</p>
+									<p style="color:black">ADIYON GROUP ENGINEERING SOLUTION (AGES) is a specialized Design Office in Business Assistance, Training and Business Facilitation.</p>
 									
 									<div id="checkout">
-										<p> AGES assistance increases revenues, income and jobs by promoting
+										<p style="color:black"> AGES assistance increases revenues, income and jobs by promoting
 autonomy and market solutions to poverty reduction
 In the next five years AGES will become one of the best technical partners of
 African governments, their financial partners, and the private sector in research and
@@ -154,12 +154,86 @@ claim to support existing or emerging businesses.</h5>  <br>
 	</section>
 	<!-- Fact section end -->
 
+	
+
+
+	<!-- Team section -->
+	<section class="team-section spad" id="section3">
+		<div class="container">
+			<div class="section-title text-center">
+				<h2>Meet Our Team</h2>
+				<p style="color:black">Meet the team that brings our vision to life! Our 'Meet Our Team' page is a window into the faces and skills that shape our collective dynamic. Immerse yourself in a world where creativity, dedication and diversity come together to bring exceptional projects to life. Meet unique minds, explore shared passions and feel the momentum that defines our group, contributing to a collaborative and innovative atmosphere. Through this experience, you will truly appreciate the people behind our successes and understand the energy that propels our shared success</p>
+			</div>
+		</div>
+		<div class="team-members clearfix" style="text-align: center; justify-content: center; align-items: center;">
+			<!-- Team member -->
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool.jpeg"></div>
+					<h2>Yolande VODOUNOU</h2>
+					<span>Chief executive officer</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool.jpeg"></div>
+					<div class="member-meta">
+						<h2>Yolande VODOUNOU</h2>
+						<span>Chief executive officer</span>
+					</div>
+					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Yolande VODOUNOU, Chief executive officer is a professional responsible for the management and daily supervision of the company's operations. She makes strategic decisions, develops business plans and coordinates the various activities. His expertise contributes to the operational efficiency and overall success of the organization.</p>
+				</div>
+				
+			</div>
+			<!-- Team member -->
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool1.jpeg"></div>
+					<h2>Anselme AINADOU</h2>
+					<span>Executive vice president</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool1.jpeg"></div>
+					<div class="member-meta">
+						<h2>Anselme AINADOU</h2>
+						<span>Executive vice president</span>
+					</div>
+					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Anselme AINADOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
+				</div>
+				
+			</div>
+
+
+			<div class="member">
+				<div class="member-text">
+					<div class="member-img set-bg" data-setbg="img/member/cool2.jpeg"></div>
+					<h2>Mathieu HOUEDJISSI</h2>
+					<span>Vice president strategic partnership</span>
+				</div>
+				
+				<div class="member-info">
+					<div class="member-img mf set-bg" data-setbg="img/member/cool2.jpeg"></div>
+					<div class="member-meta">
+						<h2>Mathieu HOUEDJISSI</h2>
+						<span>Vice president strategic partnership</span>
+					</div>
+					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Mathieu HOUEDJISSI, Vice president strategic partnership plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
+				</div>
+				
+			</div>
+			
+			
+		</div>
+	</section>
+	<!-- Team section -->
+
+
 	<!-- Team section -->
 	<section class="team-section spad" id="section3">
 		<div class="container">
 			<div class="section-title text-center">
 				<h2>Meet our experts</h2>
-				<p>Explore rewarding opportunities by meeting our qualified experts. Benefit from specialized advice and in-depth expertise in various fields to meet your specific needs. Our experts are ready to guide you, share their knowledge and collaborate with you to achieve your goals .</p>
+				<p style="color:black">Explore rewarding opportunities by meeting our qualified experts. Benefit from specialized advice and in-depth expertise in various fields to meet your specific needs. Our experts are ready to guide you, share their knowledge and collaborate with you to achieve your goals .</p>
 			</div>
 		</div>
 		<div class="team-members clearfix" style="text-align: center; justify-content: center; align-items: center;">
@@ -177,7 +251,7 @@ claim to support existing or emerging businesses.</h5>  <br>
 						<h2>Seth BAI</h2>
 						<span>Specialist in information technology (IT)</span>
 					</div>
-					<p>Seth BAI, A passionate information technology specialist, I have in-depth expertise in web development, network management and technical problem solving. My versatility, my passion for operational efficiency and my constant search for industry best practices make me an IT professional determined to provide innovative solutions. With a strong work ethic, I strive to ensure the security and performance of IT systems, while being a communicative and adaptable collaborator, ready to contribute to the success of any IT project.</p>
+					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Seth BAI, A passionate information technology specialist, I have in-depth expertise in web development, network management and technical problem solving. My versatility, my passion for operational efficiency and my constant search for industry best practices make me an IT professional determined to provide innovative solutions. With a strong work ethic, I strive to ensure the security and performance of IT systems, while being a communicative and adaptable collaborator, ready to contribute to the success of any IT project.</p>
 				</div>
 				
 			</div>
@@ -186,16 +260,16 @@ claim to support existing or emerging businesses.</h5>  <br>
 				<div class="member-text">
 					<div class="member-img set-bg" data-setbg="img/member/cool1.jpeg"></div>
 					<h2>Anselme AINANDOU</h2>
-					<span>Co-manager of the company</span>
+					<span>Executive vice president</span>
 				</div>
 				
 				<div class="member-info">
 					<div class="member-img mf set-bg" data-setbg="img/member/cool1.jpeg"></div>
 					<div class="member-meta">
 						<h2>Anselme AINANDOU</h2>
-						<span>Co-manager of the company</span>
+						<span>Executive vice president</span>
 					</div>
-					<p>Anselme AINANDOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
+					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Anselme AINANDOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
 				</div>
 				
 			</div>
@@ -205,16 +279,16 @@ claim to support existing or emerging businesses.</h5>  <br>
 				<div class="member-text">
 					<div class="member-img set-bg" data-setbg="img/member/cool2.jpeg"></div>
 					<h2>Mathieu HOUEDJESSI</h2>
-					<span>The company's third manager</span>
+					<span>Vice president strategic partnership</span>
 				</div>
 				
 				<div class="member-info">
 					<div class="member-img mf set-bg" data-setbg="img/member/cool2.jpeg"></div>
 					<div class="member-meta">
 						<h2>Mathieu HOUEDJESSI</h2>
-						<span>The company's third manager</span>
+						<span>Vice president strategic partnership</span>
 					</div>
-					<p>Mathieu HOUEDJESSI, the company's third manager, plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
+					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Mathieu HOUEDJESSI, Vice president strategic partnership plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
 				</div>
 				
 			</div>
@@ -224,74 +298,6 @@ claim to support existing or emerging businesses.</h5>  <br>
 	</section>
 	<!-- Team section -->
 
-
-
-	<!-- Team section -->
-	<section class="team-section spad" id="section3">
-		<div class="container">
-			<div class="section-title text-center">
-				<h2>Meet Our Team</h2>
-				<p>Our experts in the field of group engineering solution can always help you with all your questions!</p>
-			</div>
-		</div>
-		<div class="team-members clearfix" style="text-align: center; justify-content: center; align-items: center;">
-			<!-- Team member -->
-			<div class="member">
-				<div class="member-text">
-					<div class="member-img set-bg" data-setbg="img/member/cool.jpeg"></div>
-					<h2>Yolande VODOUNOU</h2>
-					<span>Company manager</span>
-				</div>
-				
-				<div class="member-info">
-					<div class="member-img mf set-bg" data-setbg="img/member/cool.jpeg"></div>
-					<div class="member-meta">
-						<h2>Yolande VODOUNOU</h2>
-						<span>Company manager</span>
-					</div>
-					<p>Yolande VODOUNOU, the manager of the company, is a professional responsible for the management and daily supervision of the company's operations. She makes strategic decisions, develops business plans and coordinates the various activities. His expertise contributes to the operational efficiency and overall success of the organization.</p>
-				</div>
-			</div>
-			<!-- Team member -->
-			<div class="member">
-				<div class="member-text">
-					<div class="member-img set-bg" data-setbg="img/member/cool1.jpeg"></div>
-					<h2>Anselme AINANDOU</h2>
-					<span>Co-manager of the company</span>
-				</div>
-				
-				<div class="member-info">
-					<div class="member-img mf set-bg" data-setbg="img/member/cool1.jpeg"></div>
-					<div class="member-meta">
-						<h2>Anselme AINANDOU</h2>
-						<span>Co-manager of the company</span>
-					</div>
-					<p>Anselme AINANDOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
-				</div>
-			</div>
-
-
-			<div class="member">
-				<div class="member-text">
-					<div class="member-img set-bg" data-setbg="img/member/cool2.jpeg"></div>
-					<h2>Mathieu HOUEDJESSI</h2>
-					<span>The company's third manager</span>
-				</div>
-				
-				<div class="member-info">
-					<div class="member-img mf set-bg" data-setbg="img/member/cool2.jpeg"></div>
-					<div class="member-meta">
-						<h2>Mathieu HOUEDJESSI</h2>
-						<span>The company's third manager</span>
-					</div>
-					<p>Mathieu HOUEDJESSI, the company's third manager, plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
-				</div>
-			</div>
-			
-			
-		</div>
-	</section>
-	<!-- Team section -->
 
 
 	<!-- Review section -->
@@ -302,13 +308,13 @@ claim to support existing or emerging businesses.</h5>  <br>
 					<img src="img/quote.png" alt="" class="quote mb-5">
 					<div class="review-text-slider owl-carousel">
 						<div class="review-text">
-							<p>"AGES stands out for its innovative approach, providing cutting-edge engineering solutions thanks to a dynamic and visionary team. Their commitment to innovation positions the company as an undisputed leader in the market.”</p>
+							<p style="color:black">"AGES stands out for its innovative approach, providing cutting-edge engineering solutions thanks to a dynamic and visionary team. Their commitment to innovation positions the company as an undisputed leader in the market.”</p>
 						</div>
 						<div class="review-text">
-							<p>"The expertise of AGES shines through the intelligent integration of health and education in its projects, demonstrating a deep understanding of societal issues. This unique approach makes it a key player contributing positively to social progress.”</p>
+							<p style="color:black">"The expertise of AGES shines through the intelligent integration of health and education in its projects, demonstrating a deep understanding of societal issues. This unique approach makes it a key player contributing positively to social progress.”</p>
 						</div>
 						<div class="review-text">
-							<p>"The exceptional management of Group Engineering Solution, focused on technical excellence and customer satisfaction, reinforces its reputation as a leader. His continued commitment positions the company for a prosperous and sustainable future in group engineering.”</p>
+							<p style="color:black">"The exceptional management of Group Engineering Solution, focused on technical excellence and customer satisfaction, reinforces its reputation as a leader. His continued commitment positions the company for a prosperous and sustainable future in group engineering.”</p>
 						</div>
 					</div>
 				</div>
@@ -318,21 +324,21 @@ claim to support existing or emerging businesses.</h5>  <br>
 							<div class="author-avatar set-bg" data-setbg="img/review/cool.jpeg"></div>
 							<div class="author-name">
 								<h4>Yolande VODOUNOU</h4>
-								<p>Company manager</p>
+								<p>Chief executive officer</p>
 							</div>
 						</div>
 						<div class="author-meta">
 							<div class="author-avatar set-bg" data-setbg="img/review/cool1.jpeg"></div>
 							<div class="author-name">
 								<h4>Anselme AINANDOU</h4>
-								<p>Co-manager of the company</p>
+								<p>Executive vice president</p>
 							</div>
 						</div>
 						<div class="author-meta">
 							<div class="author-avatar set-bg" data-setbg="img/review/cool2.jpeg"></div>
 							<div class="author-name">
 								<h4>Mathieu HOUEDJESSI</h4>
-								<p>The company's third manager</p>
+								<p>Vice president strategic partnership</p>
 							
 							</div>
 						</div>

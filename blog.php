@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>	
-	<title>Development-fundation</title>
+	<title>ADIYON Group Engineering Solution</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Cryptocurrency Landing Page Template">
 	<meta name="keywords" content="cryptocurrency, unica, creative, html">
@@ -63,35 +63,26 @@
 	</section>
 	<!-- Page info end -->
 
-                <!-- About section -->
-<!-- About section -->
-<section class="about-section spad">
-		<div class="container">
-			<div class="row">
-			<div class=" col-6 about-img">
-				<img src="img/mission.jpeg" alt=""  style="margin-left:100px; width:350px; height:250px;">
-			</div>
-			<div class="col-6 offset-lg-5 about-text">
-					<h2>Mission</h2>
-					
-					<p>company’s services are
-built to Contribute to providing opportunities for rural African populations to
-participate to in the socio-economic development and environmental protection of their
-country.
-</p>
-				</div>
-			</div>
-			
-		</div>
-	</section>
+                <!-- Mission -->
 
-
+				<section style="margin-top: 66px;">
+				<div class="container mt-4 text-center" style="margin-top: 106px;">
+		
+		<h2>Mission</h2>
+		
+		<p  style="color:black"> Company’s services are
+		built to Contribute to providing opportunities for rural African populations to
+		participate to in the socio-economic development and environmental protection of their
+		country.</p>		
+</div>
+</section>
 	
 	<!-- About section end -->
 
-	
 
-	<div class="container mt-5" id="section1">
+
+	<section style="margin-top: 106px;">
+	<div class="container mt-4 org" id="section1">
 	<h2 class="text-center" >Our services</h2>
 	 <div class="row mt-5 fixed">
 				<div class="col-md-6">
@@ -101,7 +92,7 @@ country.
 								</figure>
 								<div class="blog-text">
 									<div class="post-date"><h5 style="color: blue; font-weight:bold">1. Agriculture, foodsecurity and regionaltrade</h5></div>
-									<p style="color: black;">AGES works with agricultural cooperatives and enterprises to develop managementskills, improve production and distribution capabilities, and access larger markets.</p>
+									<p style="color:black">AGES works with agricultural cooperatives and enterprises to develop managementskills, improve production and distribution capabilities, and access larger markets.</p>
 									
 								</div>
 							</div>
@@ -114,7 +105,7 @@ country.
 								</figure>
 								<div class="blog-text">
 									<div class="post-date"><h5 style="color: blue; font-weight:bold">2.	Off-grid renewable energy and road infrastructures</h5></div>
-									<p style="color: black;">Through our corporate partnerships, we invest in African change agents who focus on delivering electricity and energy solutions using renewable sources such as solar, wind, hydro, and biogas technologies.</br><br></p>
+									<p style="color:black">Through our corporate partnerships, we invest in African change agents who focus on delivering electricity and energy solutions using renewable sources such as solar, wind, hydro, and biogas technologies.</p>
 								</div>
 							</div>
 						</div>
@@ -129,7 +120,7 @@ country.
 								</figure>
 								<div class="blog-text">
 									<div class="post-date"><h5 style="color: blue; font-weight:bold">3.	Youth and women enterpreneurship </h5></div>
-									<p style="color: black;">We provide technical and fundraising assistance to women-led businesses and young African entrepreneurs to create and develop markets and positively impact the lives of millions of Africans.</br><br><br></p>
+									<p style="color:black">We provide technical and fundraising assistance to women-led businesses and young African entrepreneurs to create and develop markets and positively impact the lives of millions of Africans.<br><br></p>
 								</div>
 							</div>
 						</div>
@@ -141,7 +132,7 @@ country.
 								</figure>
 								<div class="blog-text">
 									<div class="post-date"><h5 style="color: blue; font-weight:bold">4.	Education, Nutrition and Health</h5></div>
-									<p style="color: black;">AGES is convinced that education and health are the two most important characteristics of human capital. So AGES works tirelessly with its partners to implement effective education and health interventions that offer opportunities for capacity building in those sectors.</br><br></p>
+									<p style="color:black">AGES is convinced that education and health are the two most important characteristics of human capital. So AGES works tirelessly with its partners to implement effective education and health interventions that offer opportunities for capacity building in those sectors.</p>
 								</div>
 							</div>
 						</div>
