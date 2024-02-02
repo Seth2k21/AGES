@@ -347,7 +347,7 @@ ol {
 -----------------------*/
 
 .hero-section {
-	height: 900px;
+	height: 800px;
 	padding-top: 260px;
 	display: block;
 	background-image: url("../img/hero-bg.png");
@@ -355,15 +355,15 @@ ol {
 	background-color: #f3f7f9;
 	background-position: right top;
 	background-repeat: no-repeat;
-	position: relative;
+	
 	overflow: hidden;
 }
 
 .hero-section .laptop-image {
-	width: 685px;
+	width: auto;
 	max-width: none;
 	position: relative;
-	left: 80px;
+	
 }
 
 .hero-text {
@@ -1463,8 +1463,10 @@ ol {
 
 @media (max-width: 1585px) {
 	.hero-section .laptop-image {
-		left: 0;
-	
+
+	  left: 0;
+	 height: 500px;
+
 	}
 }
 
@@ -1477,9 +1479,11 @@ ol {
 		background-position: right 30% top;
 	}
 	.hero-section .laptop-image {
-		width: auto;
-		max-width: 900px;
-		top: 50px;
+		width: 300px;
+		max-width: 300px;
+		top: 15px;
+		
+		
 	}
 	.about-img {
 		left: -50px;
@@ -1695,6 +1699,7 @@ ol {
 		padding-bottom: 100px;
 		padding-top: 160px;
 		background-position: right 50% top;
+		
 	}
 	.page-info-section {
 		background-position: right 56% top;
@@ -1832,7 +1837,8 @@ ol {
 	font-weight: bold;
 }
 .im1 img{
-	height: 600px;
+	height: 700px;
+	
   
 
 }

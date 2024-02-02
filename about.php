@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>ADIYON Group Engineering Solution</title>
+	<title>ADIYON Group Engineering Solutions</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Cryptocurrency Landing Page Template">
 	<meta name="keywords" content="cryptocurrency, unica, creative, html">
@@ -38,13 +38,13 @@
 		<div class="container-fluid">
 		
 			<div class="responsive-bar"><i class="fa fa-bars"></i></div>
-			<a href="contact.php" class="user"><i class="fa fa-user"></i></a>
-			<a href="contact.php" class="site-btn">Contact</a>
+			<a href="contact" class="user"><i class="fa fa-user"></i></a>
+			<a href="contact" class="site-btn">Contact</a>
 			<nav class="main-menu">
 				<ul class="menu-list">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="blog.php">Services</a></li>
-					<li><a href="about.php">About</a></li>
+					<li><a href="index">Home</a></li>
+					<li><a href="blog">Services</a></li>
+					<li><a href="about">About</a></li>
 					
 				</ul>
 			</nav>
@@ -58,7 +58,7 @@
 		<div class="container">
 			<h2>About Us</h2>
 			<div class="site-beradcamb">
-				<a href="">Home</a>
+				<a href="index">Home</a>
 				<span><i class="fa fa-angle-right"></i> About Us</span>
 			</div>
 		</div>
@@ -258,42 +258,30 @@ claim to support existing or emerging businesses.</h5>  <br>
 			<!-- Team member -->
 			<div class="member">
 				<div class="member-text">
-					<div class="member-img set-bg" data-setbg="img/member/cool1.jpeg"></div>
-					<h2>Anselme AINANDOU</h2>
-					<span>Executive vice president</span>
+					<div class="member-img set-bg" data-setbg="img/member/electro.jpg"></div>
+					<h2>Norbert AKAKPO</h2>
+					<span>Energy Specialist</span>
 				</div>
 				
 				<div class="member-info">
-					<div class="member-img mf set-bg" data-setbg="img/member/cool1.jpeg"></div>
+					<div class="member-img mf set-bg" data-setbg="img/member/electro.jpg"></div>
 					<div class="member-meta">
-						<h2>Anselme AINANDOU</h2>
-						<span>Executive vice president</span>
+						<h2>Norbert AKAKPO</h2>
+						<span>Energy Specialist</span>
 					</div>
-					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Anselme AINANDOU, a professional specializing in health and education issues, has extensive expertise in these two crucial areas. In the context of health, it provides advice and solutions to improve individual and collective health. On the education side, this specialist contributes to the design of educational programs and the promotion of effective educational environments. Their essential role is to understand and resolve issues related to health and education within society.</p>
+					<p style="font-size:20px; font-family: 'Futura', sans-serif;color:black">Norbert AKAKPO, Specialist in energy efficiency, design and implementation of strategies to reduce energy consumption and associated costs. Strong expertise in identifying opportunities to improve energy efficiency in industrial and commercial sectors. Advanced skills in project management, energy data analysis and sustainable solution recommendations..</p>
 				</div>
 				
 			</div>
 
 
-			<div class="member">
-				<div class="member-text">
-					<div class="member-img set-bg" data-setbg="img/member/cool2.jpeg"></div>
-					<h2>Mathieu HOUEDJESSI</h2>
-					<span>Vice president strategic partnership</span>
-				</div>
-				
-				<div class="member-info">
-					<div class="member-img mf set-bg" data-setbg="img/member/cool2.jpeg"></div>
-					<div class="member-meta">
-						<h2>Mathieu HOUEDJESSI</h2>
-						<span>Vice president strategic partnership</span>
-					</div>
-					<p style="font-size:20px; font-family: 'Futura', sans-serif; color:black">Mathieu HOUEDJESSI, Vice president strategic partnership plays an essential role as a commercial strategist, responsible for developing growth strategies, while ensuring customer satisfaction and financial management. In addition, he exercises crucial leadership by supervising staff, ensuring legal compliance, representing the company and promoting innovation.</p>
-				</div>
-				
-			</div>
 			
-			
+		</div>
+	</section>
+	<!-- Team section -->
+
+
+
 		</div>
 	</section>
 	<!-- Team section -->
@@ -384,25 +372,25 @@ claim to support existing or emerging businesses.</h5>  <br>
 				<img src="img/log.png" class="mb-4" alt="" height=60 width=150>
 					<p>Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
+Copyright &copy;<script>document.write(2023);</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
 					<h5 class="widget-title">Aides</h5>
 					<ul>
-					  <a href="contact.php#section2">send us your message</a>
-						<a href="blog.php#section1">Our services</a>
-						<a href="index.php#section0">Our Features</a>
-						<li><a href="about.php#section3">The teams' opinions</a></li>
+					  <a href="contactp#section2">send us your message</a>
+						<a href="blog#section1">Our services</a>
+						<a href="indexsection0">Our Features</a>
+						<li><a href="about#section3">The teams' opinions</a></li>
 					</ul>
 				</div>
 				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
 					<h5 class="widget-title">Quick Links</h5>
 					<ul>
-						<li><a href="index.php">Home</a></li>
-						<li><a href="blog.php">Services</a></li>
-						<li><a href="about.php">About</a></li>
-						<li><a href="contact.php">Contact</a></li>
+						<li><a href="index">Home</a></li>
+						<li><a href="blog">Services</a></li>
+						<li><a href="about">About</a></li>
+						<li><a href="contact">Contact</a></li>
 					</ul>
 				</div>
 				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
@@ -420,7 +408,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 			<div class="footer-bottom">
 				<div class="row ">
 					<div class="text-center" style="margin-left: 25%;">
-				          <span class="col-6">© 2023 Group Engineering Solution</span>
+				          <span class="col-6">2023 Adiyon Group Engineering Solutions</span>
 			              <span class="col-3">(229) 66871414</span>
 				         <span class="col">adiyongroup@gmail.com</span>
 				</div>

@@ -5,7 +5,7 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>ADIYON Group Engineering Solution</title>
+<title>ADIYON Group Engineering Solutions</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Cryptocurrency Landing Page Template">
 	<meta name="keywords" content="cryptocurrency, unica, creative, html">
@@ -49,13 +49,13 @@ session_start();
 		<div class="container-fluid">
 			
 			<div class="responsive-bar"><i class="fa fa-bars"></i></div>
-			<a href="contact.php" class="user"><i class="fa fa-user"></i></a>
-			<a href="contact.php" class="site-btn">Contact</a>
+			<a href="contact" class="user"><i class="fa fa-user"></i></a>
+			<a href="contact" class="site-btn">Contact</a>
 			<nav class="main-menu">
 				<ul class="menu-list">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="blog.php">Services</a></li>
-					<li><a href="about.php">About</a></li>
+					<li><a href="index">Home</a></li>
+					<li><a href="blog">Services</a></li>
+					<li><a href="about">About</a></li>
 					
 				</ul>
 			</nav>
@@ -70,8 +70,8 @@ session_start();
 		<div class="container">
 			<h2>Contact</h2>
 			<div class="site-beradcamb">
-				<a href="index.php">Home</a>
-				<a href="contact.php"><span><i class="fa fa-angle-right"></i> Contact us</span></a>
+				<a href="index">Home</a>
+				<span><i class="fa fa-angle-right"></i> Contact us</span>
 			</div>
 		</div>
 	</section>
@@ -144,25 +144,25 @@ session_start();
 				<img src="img/log.png" class="mb-4" alt="" height=60 width=150>
 					<p>Lot:4235 Akpakpa Midombo, Near pharmacy Midombo.</p>
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
+Copyright &copy;<script>document.write(2023);</script> the said company was registered in the Cotonou trade under number RB/COT/23B36675 
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
 					<h5 class="widget-title">Aides</h5>
 					<ul>
 					  <a href="#section2">send us your message</a>
-						<a href="blog.php#section1">Our services</a>
-						<a href="index.php#section0">Our Features</a>
-						<li><a href="about.php#section3">The teams' opinions</a></li>
+						<a href="blog#section1">Our services</a>
+						<a href="indexp#section0">Our Features</a>
+						<li><a href="about#section3">The teams' opinions</a></li>
 					</ul>
 				</div>
 				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
 					<h5 class="widget-title">Quick Links</h5>
 					<ul>
-						<li><a href="index.php">Home</a></li>
-						<li><a href="blog.php">Services</a></li>
-						<li><a href="about.php">About</a></li>
-						<li><a href="contact.php">Contact</a></li>
+						<li><a href="index">Home</a></li>
+						<li><a href="blog">Services</a></li>
+						<li><a href="about">About</a></li>
+						<li><a href="contact">Contact</a></li>
 					</ul>
 				</div>
 				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
@@ -180,7 +180,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> the s
 			<div class="footer-bottom">
 				<div class="row ">
 					<div class="text-center" style="margin-left: 25%;">
-				          <span class="col-6">© 2023 Group Engineering Solution</span>
+				          <span class="col-6">2023 Adiyon Group Engineering Solutions</span>
 			              <span class="col-3">(229) 66871414</span>
 				         <span class="col">adiyongroup@gmail.com</span>
 				</div>

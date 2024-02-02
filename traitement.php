@@ -27,8 +27,8 @@ function envoi_mail($from_name, $from_email, $subject,$message)
          // $mail->setFrom($from_email, $from_name); //le message est envoyé par
          // $mail->addAddress('baiseth6@gmail.com', '');     //Le nom est facultatif
 
-        $mail->setFrom('baiseth6@gmail.com'); //le message est envoyé par
-        $mail->addAddress('baiseth6@gmail.com');     //Le nom est facultatif
+        $mail->setFrom('adiyongroup@gmail.com'); //le message est envoyé par
+        $mail->addAddress('adiyongroup@gmail.com');     //Le nom est facultatif
 
         $MESSAGE = "
         <div style='font-family: Arial, sans-serif; background-color: #e1e1e1; padding: 15px; border: 1px solid #ddd; border-radius: 5px;'>
