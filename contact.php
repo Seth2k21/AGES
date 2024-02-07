@@ -148,7 +148,7 @@ Copyright &copy;<script>document.write(2023);</script> the said company was regi
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
-					<h5 class="widget-title">Aides</h5>
+					<h5 class="widget-title">Help</h5>
 					<ul>
 					  <a href="#section2">send us your message</a>
 						<a href="blog#section1">Our services</a>
@@ -166,7 +166,7 @@ Copyright &copy;<script>document.write(2023);</script> the said company was regi
 					</ul>
 				</div>
 				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
-					<h5 class="widget-title">Follow Us</h5>
+					<h5 class="widget-title">Write to us</h5>
 					<div class="social">
 						
 						<a href="https://wa.me/22966871414">

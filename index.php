@@ -101,10 +101,14 @@ country.
 		
 		<h2>Mission</h2>
 		
-		<p  style="color:black"> Company’s services are
-		built to Contribute to providing opportunities for rural African populations to
-		participate to in the socio-economic development and environmental protection of their
-		country.</p>		
+		<p  style="color:black">AGES services are contribute to providing opportunities for rural African populations to participate in the socio-economic development
+		 and environmental protection of their country. Therefore, AGES partners with African governments, bilateral and multilateral donors, 
+		 and the private sector to reduce poverty in vulnerable communities and give them an opportunity to contribute to the economic development
+		  of their country.  AGES provides capacity building in the form of technical assistance and offers convening
+		 opportunities to innovate, develop, grow and scale African enterprises and entrepreneurs who improve lives and livelihoods. AGES works with African communities,
+		  experts and leaders to address some of Africa's biggest challenges, notably food security (distribution), clean energy, health, education, road
+		 infrastructure and unemployment, particularly among women and youths. Contact us for a discussion on any concerns you may have identified. Feel free to reach out
+		 to us for  concerns. Our dedicated team is here to provide assistance. Contacting us is the first step towards finding solutions and ensuring your total satisfaction.</p>		
 </div>
 </section>
 
@@ -432,7 +436,7 @@ Copyright &copy;<script>document.write(2023);</script> the said company was regi
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
-					<h5 class="widget-title">Aides</h5>
+					<h5 class="widget-title">Help</h5>
 					<ul>
 					    <a href="contact#section2">send us your message</a>
 						<a href="blog#section1">Our services</a>
@@ -450,7 +454,7 @@ Copyright &copy;<script>document.write(2023);</script> the said company was regi
 					</ul>
 				</div>
 				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
-					<h5 class="widget-title">Follow Us</h5>
+					<h5 class="widget-title">Write to us</h5>
 					<div class="social">
 						
 						<a href="https://wa.me/22966871414">
