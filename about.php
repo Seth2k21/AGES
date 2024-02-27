@@ -160,8 +160,8 @@ claim to support existing or emerging businesses.</h5>  <br>
 	<!-- Team section -->
 	<section class="team-section spad" id="section3">
 		<div class="container">
-			<div class="section-title text-center">
-				<h2>Meet Our Team</h2>
+			<div class="section-title">
+				<h2 class="text-center">Meet Our Team</h2>
 				<p style="color:black">Meet the team that brings our vision to life! Our 'Meet Our Team' page is a window into the faces and skills that shape our collective dynamic. Immerse yourself in a world where creativity, dedication and diversity come together to bring exceptional projects to life. Meet unique minds, explore shared passions and feel the momentum that defines our group, contributing to a collaborative and innovative atmosphere. Through this experience, you will truly appreciate the people behind our successes and understand the energy that propels our shared success</p>
 			</div>
 		</div>
@@ -231,8 +231,8 @@ claim to support existing or emerging businesses.</h5>  <br>
 	<!-- Team section -->
 	<section class="team-section spad" id="section3">
 		<div class="container">
-			<div class="section-title text-center">
-				<h2>Meet our experts</h2>
+			<div class="section-title">
+				<h2 class="text-center">Meet our experts</h2>
 				<p style="color:black">Explore rewarding opportunities by meeting our qualified experts. Benefit from specialized advice and in-depth expertise in various fields to meet your specific needs. Our experts are ready to guide you, share their knowledge and collaborate with you to achieve your goals .</p>
 			</div>
 		</div>
@@ -347,20 +347,18 @@ claim to support existing or emerging businesses.</h5>  <br>
 		<div class="container text-white">
 			<div class="row">
 				<div class="col-lg-7 newsletter-text">
-					<h2>Contact us for all your concerns</h2>
-					<p>Feel free to reach out to us for all your concerns. Our dedicated team is here to provide assistance. Contacting us is the first step towards finding solutions and ensuring your satisfaction.</p>
+					<h2 id="hop">Contact us</h2>
+					<p>Feel free to reach out to us for additional information or partnership opportunities. Our dedicated team is available to assist in such exercises. Contacting us is the first step towards finding sustainable solutions to development opportunities.</p>
 				</div>
-				<div class="col-lg-5 col-md-8 offset-lg-0 offset-md-2">
+				<div class="col-lg-5 col-md-8 offset-lg-0 offset-md-2 mt-5" style="margin-top:10px" id="hop">
 					
 				<a href="contact.php#section2"><button type="button" class="btn btn-warning">Get Started</button></a>
 						
-				
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- Newsletter section end -->
-
 
 	
 

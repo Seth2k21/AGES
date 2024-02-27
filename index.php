@@ -92,26 +92,20 @@ country.
 				</div>
 			</div>
 			
-		</div>
-	</section>-->
+		</div
+
+	</section> -->
 
 
+<!-- mission -->	
 	<section style="margin-top: 66px;">
-				<div class="container mt-4 text-center" style="margin-top: 106px;">
-		
-		<h2>Mission</h2>
-		
-		<p  style="color:black">AGES services are contribute to providing opportunities for rural African populations to participate in the socio-economic development
-		 and environmental protection of their country. Therefore, AGES partners with African governments, bilateral and multilateral donors, 
-		 and the private sector to reduce poverty in vulnerable communities and give them an opportunity to contribute to the economic development
-		  of their country.  AGES provides capacity building in the form of technical assistance and offers convening
-		 opportunities to innovate, develop, grow and scale African enterprises and entrepreneurs who improve lives and livelihoods. AGES works with African communities,
-		  experts and leaders to address some of Africa's biggest challenges, notably food security (distribution), clean energy, health, education, road
-		 infrastructure and unemployment, particularly among women and youths. Contact us for a discussion on any concerns you may have identified. Feel free to reach out
-		 to us for  concerns. Our dedicated team is here to provide assistance. Contacting us is the first step towards finding solutions and ensuring your total satisfaction.</p>		
-</div>
+	<div class="container mt-4" style="margin-top: 106px;">
+		<h2 class="text-center">Mission</h2>
+		<p style="color:black" class="container mt-1">AGES services contribute to providing opportunities for rural African populations to participate in the socio-economic development and environmental protection of their country. Therefore, AGES partners with African governments, bilateral and multilateral donors, and the private sector to reduce poverty in vulnerable communities and give them an opportunity to contribute to the economic development of their country. AGES provides capacity building in the form of technical assistance and offers convening opportunities to innovate, develop, grow and scale African enterprises and entrepreneurs who improve lives and livelihoods. AGES works with African communities, experts and leaders to address some of Africa's biggest challenges, notably food security (distribution), clean energy, health, education, road infrastructure and unemployment, particularly among women and youths. Contact us for a discussion on any concerns you may have identified. Feel free to reach out to us for collaborations. Our dedicated team is here to provide assistance. Contacting us is the first step towards finding solutions and ensuring your total satisfaction.</p>		
+	</div>
 </section>
 
+<!-- end -->
 
 
 	<!-- Features section -->
@@ -178,8 +172,8 @@ country.
 	<!-- Team section -->
 	<section class="team-section spad" id="section3">
 		<div class="container">
-			<div class="section-title text-center">
-				<h2>Meet Our Team</h2>
+			<div class="section-title">
+				<h2 class="text-center">Meet Our Team</h2>
 				<p style="color:black">Meet the team that brings our vision to life! Our 'Meet Our Team' page is a window into the faces and skills that shape our collective dynamic. Immerse yourself in a world where creativity, dedication and diversity come together to bring exceptional projects to life. Meet unique minds, explore shared passions and feel the momentum that defines our group, contributing to a collaborative and innovative atmosphere. Through this experience, you will truly appreciate the people behind our successes and understand the energy that propels our shared success</p>
 			</div>
 		</div>
@@ -253,8 +247,8 @@ A graduate of the Polytechnic School of Abomey-Calavi (BENIN) where she earned a
 	<!-- Team section -->
 	<section class="team-section spad" id="section3">
 		<div class="container">
-			<div class="section-title text-center">
-				<h2>Meet our experts</h2>
+			<div class="section-title">
+				<h2 class="text-center">Meet our experts</h2>
 				<p style="color:black">Explore rewarding opportunities by meeting our qualified experts. Benefit from specialized advice and in-depth expertise in various fields to meet your specific needs. Our experts are ready to guide you, share their knowledge and collaborate with you to achieve your goals .</p>
 			</div>
 		</div>
@@ -360,14 +354,13 @@ A graduate of the Polytechnic School of Abomey-Calavi (BENIN) where she earned a
 		<div class="container text-white">
 			<div class="row">
 				<div class="col-lg-7 newsletter-text">
-					<h2>Contact us for all your concerns</h2>
-					<p>Feel free to reach out to us for all your concerns. Our dedicated team is here to provide assistance. Contacting us is the first step towards finding solutions and ensuring your satisfaction.</p>
+					<h2 id="hop">Contact us</h2>
+					<p>Feel free to reach out to us for additional information or partnership opportunities. Our dedicated team is available to assist in such exercises. Contacting us is the first step towards finding sustainable solutions to development opportunities.</p>
 				</div>
-				<div class="col-lg-5 col-md-8 offset-lg-0 offset-md-2">
+				<div class="col-lg-5 col-md-8 offset-lg-0 offset-md-2 mt-5" style="margin-top:10px" id="hop">
 					
 				<a href="contact.php#section2"><button type="button" class="btn btn-warning">Get Started</button></a>
 						
-				
 				</div>
 			</div>
 		</div>
@@ -411,10 +404,7 @@ A graduate of the Polytechnic School of Abomey-Calavi (BENIN) where she earned a
 							</div>
 						</div>
 						
-						
-						
-					
-						<a href="blog.php"  ><button class="post-loadmore site-btn sb-gradients sbg-line mt-2 ">Load more...</button></a>
+						<a href="blog.php"  ><button class="post-loadmore site-btn sb-gradients sbg-line mt-2" style="margin-left:15px">Load more...</button></a>
 				</div>
 			
 					</div>

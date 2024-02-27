@@ -1641,9 +1641,7 @@ ol {
 	.footer-widget {
 		margin-bottom: 30px;
 	}
-	.newsletter-section {
-		text-align: center;
-	}
+	
 }
 
 /* Large Mobile :480px. */
@@ -1736,9 +1734,7 @@ ol {
 	.push-8 {
 		left: 0;
 	}
-	.review-section {
-		text-align: center;
-	}
+	
 	.review-text {
 		padding: 0 60px;
 	}
@@ -1765,11 +1761,15 @@ ol {
 	.header-section .site-btn {
 		display: none;
 	}
+	
 	.newsletter-form {
 		padding-left: 0;
 	}
-	.newsletter-section {
+	#hop {
 		text-align: center;
+	}
+	.site-btn {
+		margin-left: 25px;
 	}
 	.review-text p {
 		font-size: 20px;
